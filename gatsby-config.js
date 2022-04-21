@@ -1,6 +1,6 @@
 module.exports = {
-  siteMetadata: {
-    siteUrl: `https://www.yourdomain.tld`,
-  },
-  plugins: [],
+    siteMetadata: {
+        siteUrl: `https://ppp.ray-fish.me`,
+    },
+    plugins: [],
 }
